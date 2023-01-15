@@ -12,6 +12,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 # this is the test entered for Git. from PYcharm
 # edited this in Git directly
+# edited a second time from PyCharm
 if __name__ == '__main__':
     print_hi('PyCharm')
 

@@ -13,6 +13,7 @@ def print_hi(name):
 # this is the test entered for Git. from PYcharm
 # edited this in Git directly
 # edited a second time from PyCharm
+# Third is a charm
 if __name__ == '__main__':
     print_hi('PyCharm')
 
